@@ -1,4 +1,4 @@
-# vue-music
+# vue-music--吴少怀
 
 > Vue.js 打造高级实战——音乐 App
 
